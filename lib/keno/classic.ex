@@ -68,7 +68,7 @@ defmodule Exkeno.Keno.Classic.Macro do
             10 => 10000,
           },
         },
-        debug: true
+        debug: false
       ]
     end
   end
